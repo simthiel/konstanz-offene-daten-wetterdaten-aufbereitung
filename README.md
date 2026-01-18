@@ -11,7 +11,7 @@ für eine Trainee-Position bei der Stadt Konstanz.
 ## Motivation
 
 Dieses Projekt demonstriert einen möglichen Workflow zur
-Qualitätsverbesserung kommunaler Open-Data-Datensätze.
+Qualitätsverbesserung kommunaler offener Datensätze.
 
 ---
 
@@ -29,7 +29,7 @@ Die bereitgestellten Rohdaten weisen u. a. folgende Herausforderungen auf:
 
 - Bereinigung und Plausibilitätsprüfung der Rohdaten
 - Vereinheitlichung von Struktur und Zeitformaten
-- Schaffung einer Grundlage für Visualisierung, Analyse oder Veröffentlichung
+- Schaffung einer Grundlage für Visualisierung, Analyse
 
 ---
 
