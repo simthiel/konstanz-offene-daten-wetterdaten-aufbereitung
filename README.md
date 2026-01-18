@@ -1,51 +1,71 @@
-# Zusammenfassung
-## Motivation
-Dieses Projekt zeigt beispielhaft, wie offene Wetterdaten der Stadt Konstanz
-für eine Weiterverwendung aufbereitet werden können.
-
-## Ausgangslage
-- CSV-Dateien von der Stadt Konstanz
-- inkonsistenter Datentyp der Messreihe
-- fehlerhafte Messwerte
-- uneinheitliche Zeitstempel
-
-## Ziel
-- Umwandlung der Messwerte in numerischen Datentyp
-- vereinheitlichung der Zeitstempel
-- Bereinigung der fehlerhaften Messwerte
-- Visualisierung
-
-
----
-
 # Aufbereitung offener Wetterdaten der Stadt Konstanz
 
-Dieses Repository enthält ein Jupyter Notebook zur exemplarischen Analyse
-und Aufbereitung offener Wetterdaten aus dem offenen Datenportal der Stadt Konstanz.
+Dieses Projekt zeigt exemplarisch, wie offene Wetterdaten der Stadt Konstanz
+qualitativ geprüft, bereinigt und für eine Weiterverwendung aufbereitet werden können.
 
-Dieses Notebook zeigt exemplarisch, wie bestehende offene Datensätze der Stadt Konstanz qualitativ verbessert, nachvollziehbar dokumentiert und für Weiterverwendung aufbereitet werden können.
-
----
-
-## Inhalt
-
-- `wetterdaten_konstanz_aufbereitung.ipynb`  
-  Dokumentiertes Notebook zur Datenaufbereitung und Plausibilitätsprüfung.
+Das Repository dient als Arbeitsprobe im Rahmen einer Bewerbung
+für eine Trainee-Position bei der Stadt Konstanz.
 
 ---
 
-Die verwendeten Wetterdaten stammen aus dem offenen Datenportal der Stadt Konstanz
-(https://offenedaten-konstanz.de/) und stehen unter der Creative Commons
-Namensnennung 4.0 International Lizenz (CC BY 4.0).
+## Motivation
 
-Datenquelle: Stadt Konstanz – www.offenedaten-konstanz.de
+Offene Verwaltungsdaten entfalten ihren Mehrwert erst dann,
+wenn sie nachvollziehbar dokumentiert, konsistent strukturiert
+und technisch weiterverwendbar sind.
+
+Dieses Projekt demonstriert einen möglichen Workflow zur
+Qualitätsverbesserung kommunaler Open-Data-Datensätze.
+
+---
+
+## Ausgangslage
+
+Die bereitgestellten Rohdaten weisen u. a. folgende Herausforderungen auf:
+
+- CSV-Dateien mit inkonsistenten Formaten
+- unplausible Messwerte
+- uneinheitliche Zeitstempel
+
+---
+
+## Ziel der Datenaufbereitung
+
+- Bereinigung und Plausibilitätsprüfung der Rohdaten
+- Vereinheitlichung von Struktur und Zeitformaten
+- Schaffung einer Grundlage für Visualisierung, Analyse oder Veröffentlichung
+
+---
+
+## Inhalt des Repositories
+
+- `wetterdaten_konstanz_aufbereitung.ipynb` 
+  Dokumentiertes Jupyter Notebook zur Datenaufbereitung und Datenqualitätssicherung. 
+  Die einzelnen Verarbeitungsschritte sind bewusst ausführlich kommentiert.
+
+---
+
+## Technischer Ansatz
+
+- Python (pandas, numpy)
+- Jupyter Notebook
+- Reproduzierbarer, schrittweiser Workflow
+- Fokus auf Nachvollziehbarkeit statt Black-Box-Automatisierung
+
+---
+
+## Datenquelle
+
+- Offenes Datenportal der Stadt Konstanz 
+  https://offenedaten-konstanz.de/ 
+- Lizenz: Creative Commons Namensnennung 4.0 International (CC BY 4.0)
 
 ---
 
 ## Credits and License
 
-The original source code in this repository is released under the license
-specified in the `LICENSE` file.
+The source code in this repository is licensed under the MIT License
+(see LICENSE file), except where otherwise noted.
 
 Parts of the Python code used to retrieve external weather data are based on
 example code provided by Open-Meteo. This example code is used in accordance
