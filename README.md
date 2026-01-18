@@ -11,3 +11,20 @@ International License (CC BY 4.0).
 External weather reference data retrieved via the Open-Meteo API is licensed
 under CC BY 4.0.
 
+# Aufbereitung offener Wetterdaten der Stadt Konstanz
+
+Dieses Repository enthält ein Jupyter Notebook zur exemplarischen Analyse
+und Aufbereitung offener Wetterdaten aus dem Open-Data-Portal der Stadt Konstanz.
+
+Das Notebook dokumentiert nachvollziehbar die einzelnen Schritte der
+Datenprüfung und -bereinigung und dient als Arbeits- und Demonstrationsbeispiel
+im kommunalen Kontext.
+
+---
+
+## Inhalt
+
+- `wetterdaten_konstanz_aufbereitung.ipynb`  
+  Dokumentiertes Notebook zur Datenaufbereitung und Plausibilitätsprüfung.
+
+---
