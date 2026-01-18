@@ -10,10 +10,6 @@ für eine Trainee-Position bei der Stadt Konstanz.
 
 ## Motivation
 
-Offene Verwaltungsdaten entfalten ihren Mehrwert erst dann,
-wenn sie nachvollziehbar dokumentiert, konsistent strukturiert
-und technisch weiterverwendbar sind.
-
 Dieses Projekt demonstriert einen möglichen Workflow zur
 Qualitätsverbesserung kommunaler Open-Data-Datensätze.
 
