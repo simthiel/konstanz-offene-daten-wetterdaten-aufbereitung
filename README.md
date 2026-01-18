@@ -16,6 +16,14 @@ im kommunalen Kontext.
 
 ---
 
+Die verwendeten Wetterdaten stammen aus dem Open-Data-Portal der Stadt Konstanz
+(https://offenedaten-konstanz.de/) und stehen unter der Creative Commons
+Namensnennung 4.0 International Lizenz (CC BY 4.0).
+
+Datenquelle: Stadt Konstanz – www.offenedaten-konstanz.de
+
+---
+
 ## Credits and License
 
 The original source code in this repository is released under the license
