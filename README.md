@@ -1,3 +1,21 @@
+# Zusammenfassung
+## Motivation
+Dieses Projekt zeigt beispielhaft, wie offene Wetterdaten der Stadt Konstanz
+für eine Weiterverwendung aufbereitet werden können.
+
+## Ausgangslage
+- CSV-Dateien mit inkonsistenten Formaten
+- fehlende Messwerte
+- uneinheitliche Zeitstempel
+
+## Ziel
+- Bereinigung der Rohdaten
+- Vereinheitlichung der Struktur
+- Grundlage für Visualisierung oder Veröffentlichung
+
+
+---
+
 # Aufbereitung offener Wetterdaten der Stadt Konstanz
 
 Dieses Repository enthält ein Jupyter Notebook zur exemplarischen Analyse
