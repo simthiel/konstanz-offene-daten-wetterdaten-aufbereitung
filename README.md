@@ -1,7 +1,12 @@
 # Aufbereitung offener Wetterdaten der Stadt Konstanz
 
-Dieses Projekt zeigt exemplarisch, wie offene Wetterdaten der Stadt Konstanz
-qualitativ geprüft, bereinigt und für eine Weiterverwendung aufbereitet werden können.
+Ein zentrales Ziel offener Verwaltungsdaten ist es, Daten nicht nur bereitzustellen,
+sondern sie auffindbar, verständlich und tatsächlich nutzbar zu machen.
+
+Dieses Projekt greift diesen Gedanken exemplarisch auf: Anhand eines konkreten
+Datensatzes aus dem Open-Data-Portal der Stadt Konstanz wird gezeigt, wie vorhandene
+Datenquellen strukturiert erschlossen, qualitativ eingeordnet und für eine
+Weiterverwendung aufbereitet werden können.
 
 Das Repository dient als Arbeitsprobe im Rahmen einer Bewerbung
 für eine Trainee-Position bei der Stadt Konstanz.
