@@ -17,11 +17,9 @@ Qualitätsverbesserung kommunaler offener Datensätze.
 
 ## Ausgangslage
 
-Die bereitgestellten Rohdaten weisen u. a. folgende Herausforderungen auf:
-
-- CSV-Dateien mit inkonsistenten Formaten
-- unplausible Messwerte
-- uneinheitliche Zeitstempel
+Die bereitgestellten Rohdaten enthalten numerische Messwerte, die in den
+CSV-Dateien nicht direkt als Zahlen, sondern als Zeichenketten mit
+uneinheitlicher Dezimaldarstellung vorliegen.
 
 ---
 
