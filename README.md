@@ -4,14 +4,16 @@ Dieses Projekt zeigt beispielhaft, wie offene Wetterdaten der Stadt Konstanz
 für eine Weiterverwendung aufbereitet werden können.
 
 ## Ausgangslage
-- CSV-Dateien mit inkonsistenten Formaten
-- fehlende Messwerte
+- CSV-Dateien von der Stadt Konstanz
+- inkonsistenter Datentyp der Messreihe
+- fehlerhafte Messwerte
 - uneinheitliche Zeitstempel
 
 ## Ziel
-- Bereinigung der Rohdaten
-- Vereinheitlichung der Struktur
-- Grundlage für Visualisierung oder Veröffentlichung
+- Umwandlung der Messwerte in numerischen Datentyp
+- vereinheitlichung der Zeitstempel
+- Bereinigung der fehlerhaften Messwerte
+- Visualisierung
 
 
 ---
