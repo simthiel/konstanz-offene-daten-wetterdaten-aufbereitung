@@ -1,7 +1,7 @@
 # Aufbereitung offener Wetterdaten der Stadt Konstanz
 
 Dieses Repository enthält ein Jupyter Notebook zur exemplarischen Analyse
-und Aufbereitung offener Wetterdaten aus dem offenem Datenportal der Stadt Konstanz.
+und Aufbereitung offener Wetterdaten aus dem offenen Datenportal der Stadt Konstanz.
 
 Dieses Notebook zeigt exemplarisch, wie bestehende offene Datensätze der Stadt Konstanz qualitativ verbessert, nachvollziehbar dokumentiert und für Weiterverwendung aufbereitet werden können.
 
@@ -14,7 +14,7 @@ Dieses Notebook zeigt exemplarisch, wie bestehende offene Datensätze der Stadt 
 
 ---
 
-Die verwendeten Wetterdaten stammen aus dem offenem Datenportal der Stadt Konstanz
+Die verwendeten Wetterdaten stammen aus dem offenen Datenportal der Stadt Konstanz
 (https://offenedaten-konstanz.de/) und stehen unter der Creative Commons
 Namensnennung 4.0 International Lizenz (CC BY 4.0).
 
