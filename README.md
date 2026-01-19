@@ -22,9 +22,8 @@ Qualitätsverbesserung kommunaler offener Datensätze.
 
 ## Ausgangslage
 
-Die bereitgestellten Rohdaten enthalten numerische Messwerte, die in den
-CSV-Dateien nicht direkt als Zahlen, sondern als Zeichenketten mit
-uneinheitlicher Dezimaldarstellung vorliegen.
+Die bereitgestellten Rohdaten enthalten numerische Messwerte, die in der genutzten
+CSV-Datei nicht direkt als Zahlen, sondern als Zeichenketten mit Formatierungsfehlern vorliegen.
 
 ---
 
