@@ -22,9 +22,8 @@ Qualitätsverbesserung kommunaler offener Datensätze.
 
 ## Ausgangslage
 
-Die bereitgestellten Rohdaten enthalten numerische Messwerte, die in der genutzten
-CSV-Datei nicht direkt als Zahlen, sondern als Zeichenketten mit Formatierungsfehlern vorliegen.
-Darüber hinaus treten in einzelnen Datensätzen offensichtlich fehlerhafte Größenordnungen auf (z. B. um den Faktor 10 oder 100 abweichende Werte), die eine unmittelbare Weiterverwendung der Daten erschweren.
+Die bereitgestellten Rohdaten enthalten numerische Messwerte, die in der genutzten CSV-Datei nicht direkt als Zahlen, sondern als Zeichenketten mit Formatierungsfehlern vorliegen. Darüber hinaus treten in einzelnen Datensätzen offensichtlich fehlerhafte Größenordnungen auf (z. B. um den Faktor 10 oder 100 abweichende Werte), die eine unmittelbare Weiterverwendung der Daten erschweren.
+
 ---
 
 ## Ziel der Datenaufbereitung
