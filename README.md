@@ -61,8 +61,9 @@ Die bereitgestellten Rohdaten enthalten numerische Messwerte, die in der genutzt
 
 ## Credits and License
 
-The source code in this repository is licensed under the MIT License
-(see LICENSE file), except where otherwise noted.
+License
+
+This project is licensed under the GNU General Public License v3.0 or later (GPLv3+). except where otherwise noted.
 
 Parts of the Python code used to retrieve external weather data are based on
 example code provided by Open-Meteo. This example code is used in accordance
@@ -71,3 +72,11 @@ International License (CC BY 4.0).
 
 External weather reference data retrieved via the Open-Meteo API is licensed
 under CC BY 4.0.
+
+This project uses the following third-party Python libraries:
+- NumPy (BSD License)
+- pandas (BSD License)
+- matplotlib (PSF / BSD-style License)
+- requests-cache (MIT License)
+- retry-requests (GNU General Public License v3 or later, GPLv3+) 
+- openmeteo-requests (MIT License)
